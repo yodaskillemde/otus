@@ -1,4 +1,4 @@
-module github.com/yodaskilledme/otus/hw01_hello_otus
+module otus/hw01_hello_otus
 
 go 1.15
 
